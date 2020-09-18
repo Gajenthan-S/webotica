@@ -1,1 +1,1 @@
-# webotica
+# webotic
